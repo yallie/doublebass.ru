@@ -11,16 +11,19 @@ image:
   creditlink: http://sharp-shooter.ru
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+Nikolay Yakovlev is a session bassist and accompanier. He has performed with Anita King (vocals), 
+Sharon Clark (vocals), Valery Ponomarev (trumpet), Robert Anchipolovsky (sax), Daniel Kramer (piano), 
+Oleg Akkuratov (piano), Michael Ivanov (piano), Eugene Feldman (flute), Albert Kandrachyan (piano), 
+Konstantin Negodaev (guitar), Andrey Berdnikov (guitar), Dmitry Budarin (trombone), 
+Anatoly Kirnichny (sax), Eugene Sokolovsky (sax), and many others.
 
-## Minimal Mistakes is all about:
+He plays with numerous jazz and pop-jazz bands including Fluteman Quartet, Ice-Breaker, 
+Pesni Nashego Veka, The Witches, PartyPhone, Berdnikov Quintet, Stress Control, BeatStream, 
+Jackpot, Night Jazz and others. He plays fretless and fretted acoustic and electric basses.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments. Content first --- other widget nonsense never.
-* Large feature images for posts and pages.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+## Об этом сайте
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
+Николай Яковлев — контрабасист и бас-гитарист, сессионный музыкант и аккомпаниатор. Играл с многими 
+известными зарубежными и отечественными музыкантами. Сотрудничает с джазовыми и поп-джазовыми ансамблями: 
+Песни нашего века, PartyФон, Fluteman Quartet, Ice-Breaker, Квинтет Бердникова, Jackpot и др. 
+Играет на акустических и электрических ладовых и безладовых инструментах.
