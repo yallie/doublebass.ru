@@ -12,9 +12,8 @@ image:
 ---
 
 Немецкий журнал Die Zeit Magazin[^1] опубликовал в своем iPad-выпуске вот такой клип.
-Звуковую дорожку записали мы с Костей Негодаевым[^2]:
+Звуковую дорожку записали мы с Костей Негодаевым ([Bye Bye Blackbird — Nego & Yako](https://soundcloud.com/nikolay-yakovlev/bye-bye-blackbird)):
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/zspk0mP-r3c" frameborder="0" allowfullscreen=""></iframe>
 
-[^1]: Сетевая версия журнала: [Die Zeit Online](http://www.zeit.de)
-[^2]: [Bye Bye Blackbird — Nego & Yako](https://soundcloud.com/nikolay-yakovlev/bye-bye-blackbird)
+[^1]: Онлайн-версия журнала: [Die Zeit Online](http://www.zeit.de)
