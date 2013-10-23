@@ -1,6 +1,8 @@
 <img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo"></a>
 <h3>{{ site.owner.name }}</h3>
 <p>{{ site.owner.bio }}</p>
+{% if site.owner.soundcloud %}<a href="{{ site.owner.soundcloud }}" class="author-social" target="_blank"><i class="icon-soundcloud"></i> SoundCloud</a>{% endif %}
+{% if site.owner.youtube %}<a href="{{ site.owner.youtube }}" class="author-social" target="_blank"><i class="icon-youtube"></i> YouTube</a>{% endif %}
 {% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>{% endif %}
 {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>{% endif %}
 {% if site.owner.google_plus %}<a href="{{ site.owner.google_plus }}" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>{% endif %}

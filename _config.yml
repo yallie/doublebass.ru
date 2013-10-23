@@ -19,7 +19,9 @@ owner:
   lastfm:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    https://plus.google.com/u/0/117072645852688046568/posts   
+  soundcloud:     https://soundcloud.com/nikolay-yakovlev
+  youtube:        http://www.youtube.com/user/FatherCarlomarx
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-45029150-1
