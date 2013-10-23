@@ -5,7 +5,7 @@ description: "Клип для рубрики Wochenmarkt немецкого жу
 category: articles
 tags: [TV, projects, clips, Die Zeit Magazin]
 image:
-  feature: Zeit_de.jpg
+  feature: Zeit_Magazin.jpg
   credit: Die Zeit Magazin
   creditlink: http://www.zeit.de
 ---
