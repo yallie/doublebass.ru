@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About me
+title: About
 tagline: Nikolay Yakovlev, doublebass
 tags: [about, Nikolay, Yakovlev, doublebass, jazzbass]
 modified: 9-9-2013
@@ -22,6 +22,10 @@ Pesni Nashego Veka, The Witches, PartyPhone, Berdnikov Quintet, Stress Control, 
 Jackpot, Night Jazz and others. He plays fretless and fretted acoustic and electric basses.
 
 Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordings.
+
+ 
+
+![Nikolay Yakovlev]({{ site.url }}/images/yakovlev.jpg)
 
 ## Об авторе
 
