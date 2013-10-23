@@ -3,7 +3,7 @@ layout: post-index
 permalink: /articles/index.html
 title: Articles
 tagline: A List of Posts
-tags: [blog, graphic design]
+tags: [blog, Nikolay Yakovlev, bass, doublebass, jazzbass]
 image:
-  feature: 1070609_65995437_cropped.jpg
+  feature: deck_509272_59339551_cropped.jpg
 ---

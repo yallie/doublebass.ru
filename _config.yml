@@ -2,7 +2,7 @@ title:            Nikolay Yakovlev
 tagline:          Session bassist
 description:      Doublebass, fretted and fretless electric basses
 #Comment out url when working locally to resolve base urls correctly
-url:              http://doublebass.ru
+#url:              http://doublebass.ru
 
 # Owner/author information
 owner:
@@ -24,10 +24,11 @@ owner:
   youtube:        http://www.youtube.com/user/FatherCarlomarx
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-45029150-1
+google_analytics: UA-45029150-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
+edit_page_url:    https://github.com/yallie/doublebass.ru/edit/gh-pages/
 
 # Links to include in top navigation
 # For external links add external: true
