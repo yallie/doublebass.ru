@@ -66,3 +66,18 @@
 .icon-spam:before {
 	content: "\e612";
 }
+
+/* ----------- More stuff -------- */
+
+.tiny: {
+	font-size: 10%;
+}
+
+/* http://jsfiddle.net/Auzm5/1/ */
+
+.edit_hover_class a {
+  visibility:hidden;
+}
+.edit_hover_class:hover a {
+  visibility:visible;
+}

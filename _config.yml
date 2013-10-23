@@ -29,6 +29,7 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
 edit_page_url:    https://github.com/yallie/doublebass.ru/edit/gh-pages/
+new_page_url:     https://github.com/yallie/doublebass.ru/new/gh-pages/_posts?filename=
 
 # Links to include in top navigation
 # For external links add external: true
