@@ -1,3 +1,13 @@
+# Doublebass.ru
+
+Nikolay Yakovlev personal website repository powered by Jekull static generator. The following directories 
+and their contents are Copyright © Nikolay Yakovlev.  You may not reuse anything therein without my permission:
+
+*   _posts/
+*   images/
+
+All other directories and files are MIT Licensed.
+
 # Minimal Mistakes
 
 **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog.
