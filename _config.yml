@@ -16,7 +16,7 @@ owner:
   github:         
   linkedin:       
   instagram:      
-  lastfm:         
+  lastfm:         music/Fluteman+Quartet
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/117072645852688046568/posts   
@@ -40,8 +40,8 @@ links:
     url: /sounds
   - title: Articles
     url: /articles
-  - title: Contacts
-    url: /contacts
+  - title: Contact
+    url: /contact
 #  - title: Theme Setup
 #    url: /theme-setup
 #  - title: Made Mistakes

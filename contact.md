@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /contacts/index.html
-title: Contacts
+permalink: /contact/index.html
+title: Contact
 tagline: Nikolay Yakovlev, doublebass
 tags: [contacts, Nikolay, Yakovlev, doublebass, jazzbass]
 modified: 23-10-2013
