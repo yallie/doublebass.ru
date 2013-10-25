@@ -1,0 +1,8 @@
+<ul class="social-likes social-likes_notext">
+	<li class="facebook" title="Поделиться ссылкой на Фейсбуке">Facebook</li>
+	<li class="twitter" title="Поделиться ссылкой в Твиттере">Twitter</li>
+	<li class="mailru" title="Поделиться ссылкой в Моём мире">Мой мир</li>
+	<li class="vkontakte" title="Поделиться ссылкой во Вконтакте">Вконтакте</li>
+	<li class="odnoklassniki" title="Поделиться ссылкой в Одноклассниках">Одноклассники</li>
+	<li class="plusone" title="Поделиться ссылкой в Гугл-плюсе">Google+</li>
+</ul>
