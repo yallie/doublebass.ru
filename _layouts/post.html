@@ -36,7 +36,7 @@
         </div>
         <p class="byline"><strong><a href="{{ site.edit_page_url }}{{ page.path }}"><i class="icon-pencil"></i> {{ page.title }}</strong></a> was published on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="{{ site.url }}/about" title="About {{ site.owner.name }}" itemprop="url">{{ site.owner.name }}</a></span></span>.</p>
       </footer>
-	  {% include social-likes.html %}
+	  {% include social-likes.html %}<hr>
 	  {% include disqus.html %}
     </div><!-- /.article-wrap -->
   </article>
