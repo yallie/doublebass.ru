@@ -35,3 +35,6 @@ Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordi
 Играет на акустических и электрических ладовых и безладовых инструментах.
 
 Примеры записей можно послушать [на этой странице]({{ site.url }}/sounds/index.html).
+
+{% include social-likes.html %}<hr>
+{% include disqus.html %}
