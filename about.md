@@ -6,9 +6,9 @@ tagline: Nikolay Yakovlev, doublebass
 tags: [about, Nikolay, Yakovlev, doublebass, jazzbass]
 modified: 9-9-2013
 image:
-  feature: fingerboard_402847_9473_cropped.jpg
-#  credit: yallie
-#  creditlink: http://sharp-shooter.ru
+  feature:    fingerboard_402847_9473_cropped.jpg
+  credit:     stock.xchng
+  creditlink: http://www.sxc.hu
 ---
 
 Nikolay Yakovlev is a session bassist and accompanier. He has performed with Anita King (vocals), 

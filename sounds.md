@@ -4,15 +4,15 @@ permalink: /sounds/index.html
 title: Sound gallery
 tagline: Sample recordings by Nikolay Yakovlev
 tags: [sounds, Nikolay, Yakovlev, doublebass, jazzbass]
-modified: 9-9-2013
+modified: 27-10-2013
 image:
-  feature: cassette_99556_7176_cropped2.jpg
-#  credit: yallie
-#  creditlink: http://sharp-shooter.ru
+  feature:    cassette_99556_7176_cropped2.jpg
+  credit:     stock.xchng
+  creditlink: http://www.sxc.hu
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" 
-	src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/95449922"></iframe>
+	src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/94529032"></iframe>
  
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" 
@@ -20,7 +20,7 @@ image:
  
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" 
-	src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/94529032"></iframe>
+	src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/95449922"></iframe>
  
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" 
