@@ -10,11 +10,19 @@ image:
 
 Запись старого концерта в клубе «Баба Люба», оцифровка видеопленки.
 
+#### Состав:
+
+* Андрей Бердников — гитара
+* Константин Негодаев — гитара
+* Александр Базуев — ударные
+* Сергей Махаев — перкуссия
+* Николай Яковлев — бас
+
 ### Первое отделение — квинтет Андрея Бердникова 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLmpDhemlUFvBo0v2g5iIr0JVmJuRr4I6d" frameborder="0" allowfullscreen=""></iframe>
 
-### Второе отделение — квинтет с Анжеликой
+### Второе отделение — с Анжеликой Бердниковой
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLmpDhemlUFvBwP5KFt3-J7V3uYsoPq8SB" frameborder="0" allowfullscreen="" ></iframe>
 
