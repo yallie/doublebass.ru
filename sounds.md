@@ -41,3 +41,6 @@ image:
 
 [![SoundCloud Profile]({{ site.url }}/images/soundcloud-logo.png)](https://soundcloud.com/nikolay-yakovlev) Follow
 Nikolay Yakovlev at [SoundCloud](https://soundcloud.com/nikolay-yakovlev)
+
+{% include social-likes.html %}<hr>
+{% include disqus.html %}
