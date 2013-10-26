@@ -5,7 +5,7 @@ description: "Битва джазменов в ресторане «Красны
 category: articles
 tags: [projects, live, Kramer, Anchipolovsky]
 image:
-  feature: kramer_anchipolovsky_21845eb3d0.jpg
+  feature: kramer_anchipolovsky_4fd3c05cb3.jpg
   credit: Афиша Краснодара
   creditlink: http://www.kublog.ru/blog/kublog/66.html
 ---
