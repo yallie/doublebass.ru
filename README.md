@@ -1,8 +1,9 @@
 doublebass.ru
 =============
 
-Doublebass.ru website repository powered by Jekull static generator. The following directories 
-and their contents are Copyright © Nikolay Yakovlev.  You may not reuse anything therein without my permission:
+Doublebass.ru website repository powered by Jekyll static generator.<br>
+The following directories and their contents are copyright © Nikolay Yakovlev.<br>
+You may not reuse anything therein without author's permission:
 
 *   _posts/
 *   images/
