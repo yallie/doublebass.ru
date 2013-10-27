@@ -1,6 +1,6 @@
 # Doublebass.ru
 
-Nikolay Yakovlev's personal website repository powered by Jekyll static generator.  
+www.doublebass.ru website repository powered by Jekyll static generator.  
 The following directories and their contents are copyright © Nikolay Yakovlev.  
 You may not reuse anything therein without author's permission:
 
