@@ -23,6 +23,10 @@ image:
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/FPW4dvsPvPA" frameborder="0" allowfullscreen=""></iframe>
 
+#### Версия КубаньТВ[^3]
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/PiON5v7jXPw" frameborder="0" allowfullscreen=""></iframe>
+
 ### Архивная запись 9TV
 
 В архиве 9TV мне удалось раздобыть DVD с записью концерта.
@@ -31,5 +35,6 @@ image:
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/hIXyg11cGbA" frameborder="0" allowfullscreen=""></iframe>
 
-[^1]: [Блог «Афиша Краснодара»](http://www.kublog.ru/blog/kublog/66.html)
-[^2]: [Выпуск новостей компании «9TV»](http://9tv.ru/news/item/34987)
+[^1]: [Джазовый ринг в «Красном льве», блог «Афиша Краснодара»](http://www.kublog.ru/blog/kublog/66.html)
+[^2]: [В Краснодаре выступили джазовые музыканты Крамер и Анчиполовский, «9TV»](http://9tv.ru/news/item/34987)
+[^3]: [Не поединок, а творческий союз, «КубаньТВ»](http://kubantv.ru/kultura-kuban/26382-ne-poedinok-a-tvorcheskijj-sojuz/)
