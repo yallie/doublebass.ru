@@ -23,10 +23,6 @@ Jackpot, Night Jazz and others. He plays fretless and fretted acoustic and elect
 
 Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordings.
 
- 
-
-![Nikolay Yakovlev]({{ site.url }}/images/yakovlev.jpg)
-
 ## Об авторе
 
 Николай Яковлев — контрабасист и бас-гитарист, сессионный музыкант и аккомпаниатор. Играл с многими 
@@ -35,6 +31,17 @@ Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordi
 Играет на акустических и электрических ладовых и безладовых инструментах.
 
 Примеры записей можно послушать [на этой странице]({{ site.url }}/sounds/index.html).
+
+## Photo gallery
+
+<!-- https://github.com/ionelmc/jquery-gp-gallery -->
+<div class="pictures">
+	<img title="Nikolay Yakovlev" src="{{ site.url }}/images/yakovlev.jpg" />
+	<img title="Anchipolovskie, Gritsai, Yakovlev" src="{{ site.url }}/images/gritsai/anchipolovsky-gritsai-yakovlev-9719_gnQZ6U.jpg" />
+	<img title="Kramer—Anchipolovsky Quartet" src="{{ site.url }}/images/gritsai/anchipolovsky-kramer-quartet-iVZdJ4g4BH0.jpg" />
+	<img title="Yakovlev, Anchipolovsky, Gritsai, Kandrachyan" src="{{ site.url }}/images/gritsai/yakovlev-anchipolovsky-gritsai-kandrachyan-zR3TrIJ0sUU.jpg" />
+	<img title="Yakovlev, Gritsai, Anita King, Kandrachyan" src="{{ site.url }}/images/gritsai/yakovlev-gritsai-anitaking-kandrachyan-aR72JVY-8EI.jpg" />
+</div>
 
 {% include social-likes.html %}<hr>
 {% include disqus.html %}
