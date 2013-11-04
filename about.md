@@ -38,10 +38,9 @@ Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordi
 	<img title="Kramer—Anchipolovsky Quartet" src="{{ site.url }}/images/gritsai/anchipolovsky-kramer-quartet-iVZdJ4g4BH0.jpg" />
 	<img title="Kramer—Anchipolovsky Quartet" src="{{ site.url }}/images/anchipolovsky/kramer-anchipolovsky-e2a77567be_1000.jpg" />
 	<img title="Kramer—Anchipolovsky Quartet" src="{{ site.url }}/images/anchipolovsky/kramer-anchipolovsky-bd80c04e6a_1000.jpg" />
-	<img title="Kramer—Anchipolovsky Quartet" src="{{ site.url }}/images/anchipolovsky/kramer-anchipolovsky-4fd3c05cb3_1000.jpg" />
-	<img title="Anchipolovskie, Gritsai, Yakovlev" src="{{ site.url }}/images/gritsai/anchipolovsky-gritsai-yakovlev-9719_gnQZ6U.jpg" />
 	<img title="Yakovlev, Anchipolovsky, Gritsai, Kandrachyan" src="{{ site.url }}/images/gritsai/yakovlev-anchipolovsky-gritsai-kandrachyan-zR3TrIJ0sUU.jpg" />
 	<img title="Yakovlev, Gritsai, Anita King, Kandrachyan" src="{{ site.url }}/images/gritsai/yakovlev-gritsai-anitaking-kandrachyan-aR72JVY-8EI.jpg" />
+	<img title="Anchipolovskie, Gritsai, Yakovlev" src="{{ site.url }}/images/gritsai/anchipolovsky-gritsai-yakovlev-9719_gnQZ6U.jpg" />
 	<img title="Yakovlev, Anchipolovsky, Gritsai at Jazz-Travel" src="{{ site.url }}/images/anchipolovsky/jazz-travel-mTbz00GnXW4.jpg" />
 	<img title="Anchipolovsky Quartet at Jazz-Travel" src="{{ site.url }}/images/anchipolovsky/jazz-travel-c6-z-y7Hxzw.jpg" />
 </div>
