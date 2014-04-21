@@ -11,11 +11,18 @@ image:
   creditlink: http://www.sxc.hu
 ---
 
-Nikolay Yakovlev is a session bassist and accompanier. He has performed with Anita King (vocals), 
-Sharon Clark (vocals), Valery Ponomarev (trumpet), Robert Anchipolovsky (sax), Daniel Kramer (piano), 
-Oleg Akkuratov (piano), Michael Ivanov (piano), Eugene Feldman (flute), Albert Kandrachyan (piano), 
-Konstantin Negodaev (guitar), Andrey Berdnikov (guitar), Dmitry Budarin (trombone), 
-Anatoly Kirnichny (sax), Eugene Sokolovsky (sax), and many others.
+<!-- Nikolay Yakovlev is a session bassist and accompanier. He has performed with Kevin Mahogany (vocals), Anita King (vocals), Sharon Clark (vocals), Janine Carter (vocals), Valery Ponomarev (trumpet), Robert Anchipolovsky (sax), Daniel Kramer (piano), Oleg Akkuratov (piano), Michael Ivanov (piano), Eugene Feldman (flute), Albert Kandrachyan (piano), Konstantin Negodaev (guitar), Andrey Berdnikov (guitar), Dmitry Budarin (trombone), Anatoly Kirnichny (sax), Eugene Sokolovsky (sax), and many others. -->
+
+Nikolay Yakovlev is a session bassist and accompanier. He has performed with 
+
+|    | Kevin Mahogany (vocals)      |    | Valery Ponomarev (trumpet) |
+|    | Anita King (vocals)          |    | Robert Anchipolovsky (sax) |
+|    | Sharon Clark (vocals)        |    | Daniel Kramer (piano)      |
+|    | Janine Carter (vocals)       |    | Oleg Akkuratov (piano)     |
+|    | Michael Ivanov (piano)       |    | Andrey Berdnikov (guitar)  |
+|    | Eugene Feldman (flute)       |    | Dmitry Budarin (trombone)  |
+|    | Albert Kandrachyan (piano)   |    | Anatoly Kirnichny (sax)    |
+|    | Konstantin Negodaev (guitar) |    | Eugene Sokolovsky (sax)    |
 
 He plays with numerous jazz and pop-jazz bands including Fluteman Quartet, Ice-Breaker, 
 Pesni Nashego Veka, The Witches, PartyPhone, Berdnikov Quintet, Stress Control, BeatStream, 
