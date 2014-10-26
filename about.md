@@ -18,6 +18,7 @@ Nikolay Yakovlev is a session bassist and accompanier. He has performed with
 |    | Kevin Mahogany (vocals)      |    | Valery Ponomarev (trumpet) |
 |    | Anita King (vocals)          |    | Robert Anchipolovsky (sax) |
 |    | Sharon Clark (vocals)        |    | Daniel Kramer (piano)      |
+|    | Kat Gang (vocals)            |    | Lenny Sendersky (sax)      |
 |    | Janine Carter (vocals)       |    | Oleg Akkuratov (piano)     |
 |    | Michael Ivanov (piano)       |    | Andrey Berdnikov (guitar)  |
 |    | Eugene Feldman (flute)       |    | Dmitry Budarin (trombone)  |
