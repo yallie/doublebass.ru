@@ -6,9 +6,9 @@ tagline: Nikolay Yakovlev, doublebass
 tags: [about, Nikolay, Yakovlev, doublebass, jazzbass]
 modified: 9-9-2013
 image:
-  feature:    fingerboard_402847_9473_cropped.jpg
-  credit:     stock.xchng
-  creditlink: http://www.sxc.hu
+  feature: NikolayYakovlevLiveBlack.jpg
+  credit: Geometria.ru
+  creditlink: http://geometria.ru/harats-irishpub/events/805921
 ---
 
 <!-- Nikolay Yakovlev is a session bassist and accompanier. He has performed with Kevin Mahogany (vocals), Anita King (vocals), Sharon Clark (vocals), Janine Carter (vocals), Valery Ponomarev (trumpet), Robert Anchipolovsky (sax), Daniel Kramer (piano), Oleg Akkuratov (piano), Michael Ivanov (piano), Eugene Feldman (flute), Albert Kandrachyan (piano), Konstantin Negodaev (guitar), Andrey Berdnikov (guitar), Dmitry Budarin (trombone), Anatoly Kirnichny (sax), Eugene Sokolovsky (sax), and many others. -->
@@ -50,11 +50,12 @@ Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordi
 	<img title="Doublebass" src="{{ site.url }}/images/live/20140301/dsc02358_1024.jpg" />
 	<img title="Yakovlev, Anchipolovsky" src="{{ site.url }}/images/live/20140301/dsc02304_1024.jpg" />
 	<img title="Kramer—Anchipolovsky Quartet" src="{{ site.url }}/images/anchipolovsky/kramer-anchipolovsky-bd80c04e6a_1000.jpg" />
-	<img title="Anchipolovskie, Gritsai, Yakovlev" src="{{ site.url }}/images/gritsai/anchipolovsky-gritsai-yakovlev-9719_gnQZ6U.jpg" />
-	<img title="Yakovlev and The JazzLab at Harat's Pub" src="{{ site.url }}/images/harats141017/z3hoNi2LkMQ.jpg" />
 	<img title="Yakovlev, Gritsai, Anita King, Kandrachyan" src="{{ site.url }}/images/gritsai/yakovlev-gritsai-anitaking-kandrachyan-aR72JVY-8EI.jpg" />
+	<img title="Yakovlev and The JazzLab at Nabokov" src="{{ site.url }}/images/nabokov140801/h3N-CA646WM.jpg" />
+	<img title="Yakovlev and The JazzLab at Harat's Pub" src="{{ site.url }}/images/harats141017/z3hoNi2LkMQ.jpg" />
 	<img title="Yakovlev, Anchipolovsky, Gritsai at Jazz-Travel" src="{{ site.url }}/images/anchipolovsky/jazz-travel-mTbz00GnXW4.jpg" />
 	<img title="Anchipolovsky Quartet at Jazz-Travel" src="{{ site.url }}/images/anchipolovsky/jazz-travel-c6-z-y7Hxzw.jpg" />
+	<img title="Yakovlev and The JazzLab at Harat's Pub" src="{{ site.url }}/images/harats141017/GRUnERYSiNg.jpg" />
 </div>
 
 {% include social-likes.html %}<hr>
