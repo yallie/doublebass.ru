@@ -37,9 +37,9 @@ new_page_url:     https://github.com/yallie/doublebass.ru/new/gh-pages/_posts?fi
 links:
   - title: About
     url: /about
-  - title: Sounds
+  - title: Music
     url: /sounds
-  - title: Articles
+  - title: Blog
     url: /articles
   - title: Contact
     url: /contact
