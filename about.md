@@ -54,8 +54,11 @@ Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordi
 	<img title="Yakovlev and The JazzLab at Nabokov" src="{{ site.url }}/images/nabokov140801/h3N-CA646WM.jpg" />
 	<img title="Yakovlev and The JazzLab at Harat's Pub" src="{{ site.url }}/images/harats141017/z3hoNi2LkMQ.jpg" />
 	<img title="Yakovlev, Anchipolovsky, Gritsai at Jazz-Travel" src="{{ site.url }}/images/anchipolovsky/jazz-travel-mTbz00GnXW4.jpg" />
+	<img title="Mahogany, Anchipolovsky, Gritsai, Yakovlev" src="{{ site.url }}/images/anchipolovsky/mahogany_anchipolovsky_n9HKmyyyle4.jpg" />
+	<img title="Mahogany, Anchipolovsky, Gritsai, Yakovlev" src="{{ site.url }}/images/anchipolovsky/mahogany_anchipolovsky_Dd6gKuhRk5o2.jpg" />
 	<img title="Nikolay Yakovlev" src="{{ site.url }}/images/NikolayYakovlev4497.jpg" />
-	<img title="Anchipolovsky Quartet at Jazz-Travel" src="{{ site.url }}/images/anchipolovsky/jazz-travel-c6-z-y7Hxzw.jpg" />
+	<img title="Carter, Gritsai, Yakovlev" src="{{ site.url }}/images/anchipolovsky/carter_gritsai_yakovlev_vALRrAsCfAA.jpg" />
+	<!--img title="Anchipolovsky Quartet at Jazz-Travel" src="{{ site.url }}/images/anchipolovsky/jazz-travel-c6-z-y7Hxzw.jpg" /-->
 	<img title="Yakovlev and The JazzLab at Harat's Pub" src="{{ site.url }}/images/harats141017/GRUnERYSiNg.jpg" />
 </div>
 
