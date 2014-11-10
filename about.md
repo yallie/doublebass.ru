@@ -20,10 +20,11 @@ Nikolay Yakovlev is a session bassist and accompanier. He has performed with
 |    | Sharon Clark (vocals)        |    | Daniel Kramer (piano)      |
 |    | Kat Gang (vocals)            |    | Lenny Sendersky (sax)      |
 |    | Janine Carter (vocals)       |    | Oleg Akkuratov (piano)     |
-|    | Michael Ivanov (piano)       |    | Andrey Berdnikov (guitar)  |
-|    | Eugene Feldman (flute)       |    | Dmitry Budarin (trombone)  |
-|    | Albert Kandrachyan (piano)   |    | Anatoly Kirnichny (sax)    |
-|    | Konstantin Negodaev (guitar) |    | Eugene Sokolovsky (sax)    |
+|    | Andrey Kondakov (piano)      |    | Andrey Berdnikov (guitar)  |
+|    | Michael Ivanov (piano)       |    | Dmitry Budarin (trombone)  |
+|    | Eugene Feldman (flute)       |    | Anatoly Kirnichny (sax)    |
+|    | Albert Kandrachyan (piano)   |    | Eugene Sokolovsky (sax)    |
+|    | Konstantin Negodaev (guitar) |    | |
 
 He plays with numerous jazz and pop-jazz bands including Fluteman Quartet, Ice-Breaker, 
 Pesni Nashego Veka, The JazzLab, The Witches, PartyPhone, Berdnikov Quintet, Stress Control, BeatStream, 
