@@ -16,15 +16,15 @@ image:
 Nikolay Yakovlev is a session bassist and accompanier. He has performed with 
 
 |    | Kevin Mahogany (vocals)      |    | Valery Ponomarev (trumpet) |
-|    | Anita King (vocals)          |    | Robert Anchipolovsky (sax) |
-|    | Sharon Clark (vocals)        |    | Daniel Kramer (piano)      |
-|    | Kat Gang (vocals)            |    | Lenny Sendersky (sax)      |
-|    | Janine Carter (vocals)       |    | Oleg Akkuratov (piano)     |
-|    | Andrey Kondakov (piano)      |    | Andrey Berdnikov (guitar)  |
-|    | Michael Ivanov (piano)       |    | Dmitry Budarin (trombone)  |
-|    | Eugene Feldman (flute)       |    | Anatoly Kirnichny (sax)    |
-|    | Albert Kandrachyan (piano)   |    | Eugene Sokolovsky (sax)    |
-|    | Konstantin Negodaev (guitar) |    | |
+|    | Kathy Kosins (vocals)        |    | Robert Anchipolovsky (sax) |
+|    | Anita King (vocals)          |    | Daniel Kramer (piano)      |
+|    | Sharon Clark (vocals)        |    | Lenny Sendersky (sax)      |
+|    | Kat Gang (vocals)            |    | Oleg Akkuratov (piano)     |
+|    | Janine Carter (vocals)       |    | Andrey Kondakov (piano)    |
+|    | Michael Ivanov (piano)       |    | Andrey Berdnikov (guitar)  |
+|    | Eugene Feldman (flute)       |    | Dmitry Budarin (trombone)  |
+|    | Albert Kandrachyan (piano)   |    | Anatoly Kirnichny (sax)    |
+|    | Konstantin Negodaev (guitar) |    | Eugene Sokolovsky (sax)    |
 
 He plays with numerous jazz and pop-jazz bands including Fluteman Quartet, Ice-Breaker, 
 Pesni Nashego Veka, The JazzLab, The Witches, PartyPhone, Berdnikov Quintet, Stress Control, BeatStream, 
