@@ -2,7 +2,7 @@ title:            Nikolay Yakovlev
 tagline:          Session bassist
 description:      Doublebass, fretted and fretless electric basses
 #Comment out url when working locally to resolve base urls correctly
-url:              http://doublebass.ru
+#url:              http://doublebass.ru
 
 # Owner/author information
 owner:
@@ -52,7 +52,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Russia/Moscow
 future:      true
-pygments:    true
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks

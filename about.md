@@ -15,19 +15,21 @@ image:
 
 Nikolay Yakovlev is a session bassist and accompanier. He has performed with 
 
-|    | Kevin Mahogany (vocals)      |    | Valery Ponomarev (trumpet) |
-|    | Kathy Kosins (vocals)        |    | Robert Anchipolovsky (sax) |
-|    | Anita King (vocals)          |    | Daniel Kramer (piano)      |
-|    | Sharon Clark (vocals)        |    | Lenny Sendersky (sax)      |
-|    | Kat Gang (vocals)            |    | Oleg Akkuratov (piano)     |
-|    | Janine Carter (vocals)       |    | Andrey Kondakov (piano)    |
-|    | Michael Ivanov (piano)       |    | Andrey Berdnikov (guitar)  |
-|    | Eugene Feldman (flute)       |    | Dmitry Budarin (trombone)  |
-|    | Albert Kandrachyan (piano)   |    | Anatoly Kirnichny (sax)    |
-|    | Konstantin Negodaev (guitar) |    | Eugene Sokolovsky (sax)    |
+|     | [Kevin Mahogany](http://www.kevinmahogany.com/) (vocals)                   |      | [Valery Ponomarev](http://www.valeryponomarev.com/) (trumpet)          |
+|     | [Kathy Kosins](http://www.kathykosins.com/) (vocals)                       |      | [Robert Anchipolovsky](https://www.youtube.com/user/Anchipology) (sax) |
+|     | [Anita King](http://www.anitakingsings.com/) (vocals)                      |      | [Daniel Kramer](http://kramerdaniel.com/) (piano)                      |
+|     | [Sharon Clark](http://www.sharonclarkjazz.com/) (vocals)                   |      | [Lenny Sendersky](http://www.lennysendersky.com/) (sax)                |
+|     | [Kat Gang](http://katgang.net/) (vocals)                                   |      | [Tony Romano](http://www.tonyromanomusic.com/) (guitar)                |
+|     | [Janine Carter](http://www.janinecarter.com/) (vocals)                     |      | [Andrey Kondakov](http://www.jazz.ru/pages/kondakov/) (piano)          |
+|     | [Mavis Swan Poole](http://www.swanvocals.com/) (vocals)                    |      | [Oleg Butman](http://www.olegbutman.com/) (drums)                      |
+|     | [Michael Ivanov](http://ivanovbrothers.ru/) (piano)                        |      | [Natalia Smirnova](http://www.jazz.ru/pages/smirnova/) (piano, vocals) |
+|     | [Eugene Feldman](https://soundcloud.com/eugene-fluteman) (flute)           |      | [Oleg Akkuratov](http://akkuratov.com/) (piano)                        |
+|     | [Albert Kandrachyan](https://soundcloud.com/albert-kandrachyan) (piano)    |      | Andrey Berdnikov (guitar)  |
+|     | [Konstantin Negodaev](https://soundcloud.com/konstantin-negodaev) (guitar) |      | Dmitry Budarin (trombone)  |
+|     | Eugene Sokolovsky (sax)                                                    |      | Anatoly Kirnichny (sax)    |
 
 He plays with numerous jazz and pop-jazz bands including Fluteman Quartet, Ice-Breaker, 
-Pesni Nashego Veka, The JazzLab, The Witches, PartyPhone, Berdnikov Quintet, Stress Control, BeatStream, 
+Pesni Nashego Veka, The JazzLab, Soulife, The Witches, PartyPhone, Berdnikov Quintet, Stress Control, BeatStream, 
 Jackpot, Night Jazz and others. He plays fretless and fretted acoustic and electric basses.
 
 Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordings.
@@ -36,7 +38,7 @@ Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordi
 
 Николай Яковлев — контрабасист и бас-гитарист, сессионный музыкант и аккомпаниатор. Играл с многими 
 известными зарубежными и отечественными музыкантами. Сотрудничает с джазовыми и поп-джазовыми ансамблями: 
-Песни нашего века, The JazzLab, PartyФон, Fluteman Quartet, Ice-Breaker, Квинтет Бердникова, Jackpot и др. 
+Песни нашего века, The JazzLab, Soulife, PartyФон, Fluteman Quartet, Ice-Breaker, Квинтет Бердникова, Jackpot и др. 
 Играет на акустических и электрических ладовых и безладовых инструментах.
 
 Примеры записей можно послушать [на этой странице]({{ site.url }}/sounds/index.html).
@@ -59,8 +61,9 @@ Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordi
 	<img title="Mahogany, Anchipolovsky, Gritsai, Yakovlev" src="{{ site.url }}/images/anchipolovsky/mahogany_anchipolovsky_Dd6gKuhRk5o2.jpg" />
 	<img title="Nikolay Yakovlev" src="{{ site.url }}/images/NikolayYakovlev4497.jpg" />
 	<img title="Carter, Gritsai, Yakovlev" src="{{ site.url }}/images/anchipolovsky/carter_gritsai_yakovlev_vALRrAsCfAA.jpg" />
-	<!--img title="Anchipolovsky Quartet at Jazz-Travel" src="{{ site.url }}/images/anchipolovsky/jazz-travel-c6-z-y7Hxzw.jpg" /-->
 	<img title="IceBreaker: Kirnichny, Sokolovsky, Yakovlev, Leshkevich, Kabalskis, Sokolovsky" src="{{ site.url }}/images/rost-icebreaker.jpg" />
+	<img title="Nikolay Yakovlev, Mavis Swan Poole, Natalia Smirnova, Oleg Butman" src="{{ site.url }}/images/live/20150615/swan-poole-oleg-butman-P-_JHPX6Qp4.jpg" />
+	<img title="Soulife demo recording, Nikolay Yakovlev playing bass" src="{{ site.url }}/images/soulife-sN2vy4q7iBs.jpg" />
 	<img title="Yakovlev and The JazzLab at Harat's Pub" src="{{ site.url }}/images/harats141017/GRUnERYSiNg.jpg" />
 </div>
 
