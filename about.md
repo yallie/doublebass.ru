@@ -63,7 +63,7 @@ Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordi
 	<img title="Carter, Gritsai, Yakovlev" src="{{ site.url }}/images/anchipolovsky/carter_gritsai_yakovlev_vALRrAsCfAA.jpg" />
 	<img title="IceBreaker: Kirnichny, Sokolovsky, Yakovlev, Leshkevich, Kabalskis, Sokolovsky" src="{{ site.url }}/images/rost-icebreaker.jpg" />
 	<img title="Nikolay Yakovlev, Mavis Swan Poole, Natalia Smirnova, Oleg Butman" src="{{ site.url }}/images/live/20150615/swan-poole-oleg-butman-P-_JHPX6Qp4.jpg" />
-	<img title="Soulife demo recording, Nikolay Yakovlev playing bass" src="{{ site.url }}/images/soulife-sN2vy4q7iBs.jpg" />
+	<img title="Soulife demo recording, Nikolay Yakovlev playing bass" src="{{ site.url }}/images/promo/soulife/soulife-sN2vy4q7iBs.jpg" />
 	<img title="Yakovlev and The JazzLab at Harat's Pub" src="{{ site.url }}/images/harats141017/GRUnERYSiNg.jpg" />
 </div>
 
