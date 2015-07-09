@@ -12,8 +12,8 @@ image:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8uls5v9YkrM" frameborder="0" allowfullscreen></iframe>
 
-Фото со съемок
-==============
+Фотографии
+==========
 
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">
@@ -22,5 +22,7 @@ image:
 	<img title="Soulife Promo 2" src="{{ site.url }}/images/promo/soulife/SoulifePromo2.jpg" />
 	<img title="Soulife Promo 3" src="{{ site.url }}/images/promo/soulife/SoulifePromo3.jpg" />
 	<img title="Soulife Promo 4" src="{{ site.url }}/images/promo/soulife/SoulifePromo4.jpg" />
+	<img title="Soulife Promo 7" src="{{ site.url }}/images/promo/soulife/SoulifePromo7.jpg" />
 	<img title="Soulife Promo 5" src="{{ site.url }}/images/promo/soulife/SoulifePromo5.jpg" />
+	<img title="Soulife Instagram" src="{{ site.url }}/images/promo/soulife/soulife-Xee73riJeR4.jpg" />
 </div>
