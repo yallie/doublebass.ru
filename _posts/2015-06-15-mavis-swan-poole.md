@@ -31,6 +31,8 @@ Wilson Pub
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">
 	<img title="Poster" src="{{ site.url }}/images/posters/swan-poole-90pF7DxwgFk.jpg" />
+	<img title="Nikolay Yakovlev, Mavis Poole, Natalia Smirnova, Oleg Butman" src="{{ site.url }}/images/live/20150615/mavis-swan-poole-8IUSDUzU4tQ.jpg" />
+	<img title="Nikolay Yakovlev, Mavis Poole, Natalia Smirnova, Oleg Butman" src="{{ site.url }}/images/live/20150615/mavis-swan-poole-dI9Db2NuldI.jpg" />
 	<img title="Nikolay Yakovlev, Mavis Poole, Natalia Smirnova, Oleg Butman" src="{{ site.url }}/images/live/20150615/swan-poole-oleg-butman-P-_JHPX6Qp4.jpg" />
 	<img title="Nikolay Yakovlev and Mavis Poole" src="{{ site.url }}/images/live/20150615/mavis-swan-poole-yVL-oEX0jzQ.jpg" />
 </div>
