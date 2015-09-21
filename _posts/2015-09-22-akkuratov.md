@@ -12,7 +12,7 @@ image:
 
 ### 23 сентября 2015 г, Сочи
 
-![Олег Аккуратов]({{ site.url }}/images/posters/akkuratov_1-1.png)  
+![Олег Аккуратов]({{ site.url }}/images/posters/akkuratov-22.jpg)  
 
 #### Концерт Олега Аккуратова в рамках фестиваля «Пара-Арт».
 
@@ -30,7 +30,7 @@ image:
 * Сергей Землянухин — контрабас
 * Павел Панфилов — ударные
  
-![Олег Аккуратов]({{ site.url }}/images/posters/akkuratov-22.jpg)  
+![Олег Аккуратов]({{ site.url }}/images/posters/akkuratov_1-1.png)  
 
 ##### Анонсы концерта:  
 
@@ -38,5 +38,4 @@ image:
 * [Золото Сочи](http://www.zolotosochi.com/post/nuzhno-posetit/oleg-akkuratov)  
 * [Новости Ейска](http://priazovka.ru/obshestvo/v-sochi-23-sentyabrya-proidyot-koncert-olega-akkuratova-melodii-dzhaza)  
 * [Купи билет](http://www.bil24.ru/event/melodii-dzhaza-solnyy-koncert-voshodyashchaya-zvezda-rossiyskogo-i-mirovogo-dzhaza-oleg)  
-
 
