@@ -10,7 +10,7 @@ image:
   creditlink: http://www.sxc.hu
 ---
 
-### 23 сентября 2015 г, Сочи
+### 22 и 23 сентября 2015 г, Сочи
 
 ![Олег Аккуратов]({{ site.url }}/images/posters/akkuratov-22.jpg)  
 
@@ -18,13 +18,13 @@ image:
 
 [Сочинский зал органной и камерной музыки](http://uvidite.ru/event/melodii-dzhaza-solnyy-koncert-voshodyashchaya-zvezda-rossiyskogo-i-mirovogo-dzhaza-oleg) в 19:30  
 
-#### Первое отделение  
+#### 22 сентября  
 
 * Олег Аккуратов — фортепиано, вокал
 * Владимир Грицай — ударные
 * Николай Яковлев — бас
 
-#### Второе отделение  
+#### 23 сентября
 
 * Олег Аккуратов — фортепиано, вокал
 * Сергей Землянухин — контрабас
@@ -32,7 +32,7 @@ image:
  
 ![Олег Аккуратов]({{ site.url }}/images/posters/akkuratov_1-1.png)  
 
-##### Анонсы концерта:  
+##### Анонсы концертов:  
 
 * [Министерство культуры РФ](http://mkrf.ru/press-center/news/events/krasnodar-region/kontsert-olega-akkuratova-melodii-djaza)  
 * [Золото Сочи](http://www.zolotosochi.com/post/nuzhno-posetit/oleg-akkuratov)  
