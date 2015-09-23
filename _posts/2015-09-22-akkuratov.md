@@ -12,7 +12,13 @@ image:
 
 ### 22 и 23 сентября 2015 г, Сочи
 
-![Олег Аккуратов]({{ site.url }}/images/posters/akkuratov-22.jpg)  
+<!-- https://github.com/ionelmc/jquery-gp-gallery -->
+<div class="pictures">
+	<img title="Oleg Akkuratov/Nikolay Yakovlev" src="{{ site.url }}/images/sochi150922/akkuratov-yakovlev.jpg" />
+	<img title="Oleg Akkuratov" src="{{ site.url }}/images/sochi150922/akkuratov1.jpg" />
+	<img title="Oleg Akkuratov" src="{{ site.url }}/images/sochi150922/akkuratov2.jpg" />
+	<img title="Vladimir Gritsai/Nikolay Yakovlev" src="{{ site.url }}/images/sochi150922/gritsai-yakovlev.jpg" />
+</div>
 
 #### Концерт Олега Аккуратова в рамках фестиваля «Пара-Арт».
 
