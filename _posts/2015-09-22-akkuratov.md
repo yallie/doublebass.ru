@@ -12,17 +12,22 @@ image:
 
 ### 22 и 23 сентября 2015 г, Сочи
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmpDhemlUFvBXFv4NsXeRHtf6zeDhLXBX" frameborder="0" allowfullscreen></iframe>
+
+#### Концерт Олега Аккуратова в рамках фестиваля «Пара-Арт».
+
+[Сочинский зал органной и камерной музыки](http://uvidite.ru/event/melodii-dzhaza-solnyy-koncert-voshodyashchaya-zvezda-rossiyskogo-i-mirovogo-dzhaza-oleg) в 19:30  
+
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">
 	<img title="Oleg Akkuratov/Nikolay Yakovlev" src="{{ site.url }}/images/sochi150922/akkuratov-yakovlev.jpg" />
 	<img title="Oleg Akkuratov" src="{{ site.url }}/images/sochi150922/akkuratov1.jpg" />
 	<img title="Oleg Akkuratov" src="{{ site.url }}/images/sochi150922/akkuratov2.jpg" />
 	<img title="Vladimir Gritsai/Nikolay Yakovlev" src="{{ site.url }}/images/sochi150922/gritsai-yakovlev.jpg" />
+	<img title="Oleg Akkuratov et al" src="{{ site.url }}/images/sochi150922/geometria-48822362.jpg" />
+	<img title="Oleg Akkuratov et al" src="{{ site.url }}/images/sochi150922/geometria-48822480.jpg" />
+	<img title="Poster" src="{{ site.url }}/images/posters/akkuratov_1-1.png" />
 </div>
-
-#### Концерт Олега Аккуратова в рамках фестиваля «Пара-Арт».
-
-[Сочинский зал органной и камерной музыки](http://uvidite.ru/event/melodii-dzhaza-solnyy-koncert-voshodyashchaya-zvezda-rossiyskogo-i-mirovogo-dzhaza-oleg) в 19:30  
 
 #### 22 сентября  
 
@@ -36,8 +41,6 @@ image:
 * Сергей Землянухин — контрабас
 * Павел Панфилов — ударные
  
-![Олег Аккуратов]({{ site.url }}/images/posters/akkuratov_1-1.png)  
-
 ##### Анонсы концертов:  
 
 * [Министерство культуры РФ](http://mkrf.ru/press-center/news/events/krasnodar-region/kontsert-olega-akkuratova-melodii-djaza)  
@@ -45,3 +48,4 @@ image:
 * [Новости Ейска](http://priazovka.ru/obshestvo/v-sochi-23-sentyabrya-proidyot-koncert-olega-akkuratova-melodii-dzhaza)  
 * [Купи билет](http://www.bil24.ru/event/melodii-dzhaza-solnyy-koncert-voshodyashchaya-zvezda-rossiyskogo-i-mirovogo-dzhaza-oleg)  
 
+![Олег Аккуратов]({{ site.url }}/)  
