@@ -47,5 +47,3 @@ image:
 * [Золото Сочи](http://www.zolotosochi.com/post/nuzhno-posetit/oleg-akkuratov)  
 * [Новости Ейска](http://priazovka.ru/obshestvo/v-sochi-23-sentyabrya-proidyot-koncert-olega-akkuratova-melodii-dzhaza)  
 * [Купи билет](http://www.bil24.ru/event/melodii-dzhaza-solnyy-koncert-voshodyashchaya-zvezda-rossiyskogo-i-mirovogo-dzhaza-oleg)  
-
-![Олег Аккуратов]({{ site.url }}/)  
