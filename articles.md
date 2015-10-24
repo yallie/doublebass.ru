@@ -5,7 +5,7 @@ title: Articles
 tagline: A List of Posts
 tags: [blog, Nikolay Yakovlev, bass, doublebass, jazzbass]
 image:
-  feature:    fingerboard_402847_9473_cropped.jpg
-  credit:     stock.xchng
-  creditlink: http://www.sxc.hu
+  feature:    nmaslovatrio/YakoNMTrio2400.jpg 
+  credit:     Александр Боровик
+  creditlink: http://vk.com/aborovik
 ---
