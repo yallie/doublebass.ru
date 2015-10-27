@@ -19,8 +19,11 @@ image:
 
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">
+	<img title="Nadya Maslova Trio Poster" src="{{ site.url }}/images/posters/NMTrio8.jpg" />
 	<img title="Nadya Maslova Trio" src="{{ site.url }}/images/nmaslovatrio/NMTrio1.jpg" />
 	<img title="Nadya Maslova Trio" src="{{ site.url }}/images/nmaslovatrio/NMTrio2.jpg" />
+	<img title="Nadya Maslova Trio Poster" src="{{ site.url }}/images/posters/NMTrio7.jpg" />
+	<img title="Nadya Maslova Trio Poster" src="{{ site.url }}/images/posters/NMTrio6.jpg" />
 	<img title="Nadya Maslova Trio" src="{{ site.url }}/images/nmaslovatrio/NMTrio3.jpg" />
 	<img title="Nadya Maslova Trio" src="{{ site.url }}/images/nmaslovatrio/NMTrio4.jpg" />
 	<img title="Nadya Maslova Trio Poster" src="{{ site.url }}/images/posters/NMTrio5.jpg" />
