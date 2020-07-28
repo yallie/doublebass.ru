@@ -13,11 +13,12 @@ image:
 
 <!-- Nikolay Yakovlev is a session bassist and accompanier. He has performed with Kevin Mahogany (vocals), Anita King (vocals), Sharon Clark (vocals), Janine Carter (vocals), Valery Ponomarev (trumpet), Robert Anchipolovsky (sax), Daniel Kramer (piano), Oleg Akkuratov (piano), Michael Ivanov (piano), Eugene Feldman (flute), Albert Kandrachyan (piano), Konstantin Negodaev (guitar), Andrey Berdnikov (guitar), Dmitry Budarin (trombone), Anatoly Kirnichny (sax), Eugene Sokolovsky (sax), and many others. -->
 
-Nikolay Yakovlev is a session bassist and accompanier. He has performed with 
+Nikolay Yakovlev is a session bassist and accompanier. He played with 
 
-|     | [Kevin Mahogany](http://www.kevinmahogany.com/) (vocals)                   |      | [Valery Ponomarev](http://www.valeryponomarev.com/) (trumpet)          |
+|     | [Kevin Mahogany](https://www.kevinmahogany.com/) (vocals)                  |      | [Valery Ponomarev](http://www.valeryponomarev.com/) (trumpet)          |
 |     | [Kathy Kosins](http://www.kathykosins.com/) (vocals)                       |      | [Robert Anchipolovsky](https://www.youtube.com/user/Anchipology) (sax) |
 |     | [Anita King](http://www.anitakingsings.com/) (vocals)                      |      | [Daniel Kramer](http://kramerdaniel.com/) (piano)                      |
+|     | [Sy Smith](http://sysmith.com/) (vocals)                                   |      | [Sergey Korenev](https://www.facebook.com/Sergey.Korenev.JAZZ) (guitar)                      |
 |     | [Sharon Clark](http://www.sharonclarkjazz.com/) (vocals)                   |      | [Lenny Sendersky](http://www.lennysendersky.com/) (sax)                |
 |     | [Kat Gang](http://katgang.net/) (vocals)                                   |      | [Tony Romano](http://www.tonyromanomusic.com/) (guitar)                |
 |     | [Janine Carter](http://www.janinecarter.com/) (vocals)                     |      | [Andrey Kondakov](http://www.jazz.ru/pages/kondakov/) (piano)          |
@@ -28,9 +29,9 @@ Nikolay Yakovlev is a session bassist and accompanier. He has performed with
 |     | [Konstantin Negodaev](https://soundcloud.com/konstantin-negodaev) (guitar) |      | Dmitry Budarin (trombone)  |
 |     | Eugene Sokolovsky (sax)                                                    |      | Anatoly Kirnichny (sax)    |
 
-He plays with numerous jazz and pop-jazz bands including Fluteman Quartet, Ice-Breaker, 
-Pesni Nashego Veka, The JazzLab, Soulife, The Witches, PartyPhone, Berdnikov Quintet, Stress Control, BeatStream, 
-Jackpot, Night Jazz and others. He plays fretless and fretted acoustic and electric basses.
+He plays with numerous jazz and pop-jazz bands including Sergey Korenev PROJECT, Fluteman Quartet, Ice-Breaker, 
+Pesni Nashego Veka, The JazzLab, Soulife, Nadya Maslova Trio, The Witches, PartyPhone, Berdnikov Quintet, 
+Stress Control, BeatStream, Jackpot, Night Jazz and others. He plays fretless and fretted acoustic and electric basses.
 
 Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordings.
 
@@ -38,7 +39,9 @@ Check out the [Sounds page]({{ site.url }}/sounds/index.html) for sample recordi
 
 Николай Яковлев — контрабасист и бас-гитарист, сессионный музыкант и аккомпаниатор. Играл с многими 
 известными зарубежными и отечественными музыкантами. Сотрудничает с джазовыми и поп-джазовыми ансамблями: 
-Песни нашего века, The JazzLab, Soulife, PartyФон, Fluteman Quartet, Ice-Breaker, Квинтет Бердникова, Jackpot и др. 
+Песни нашего века, Sergey Korenev PROJECT, Трио Нади Масловой, The JazzLab, Soulife, PartyФон, Fluteman Quartet, 
+Ice-Breaker, Квинтет Бердникова, Jackpot и др.
+
 Играет на акустических и электрических ладовых и безладовых инструментах.
 
 Примеры записей можно послушать [на этой странице]({{ site.url }}/sounds/index.html).
