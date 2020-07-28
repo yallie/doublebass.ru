@@ -8,6 +8,7 @@ image:
   feature: feature/xus-badia--RghPLU4wAw-unsplash-cropped.jpg 
   credit: Xus Badia @xusbadia
   creditlink: https://unsplash.com/photos/-RghPLU4wAw
+  oglink: 2020-06-15-korenev/korenev-project.jpg
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H0AVK3FK_y4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
