@@ -1,0 +1,15 @@
+---
+layout: post
+title: Евгений Фельдман
+description: "Трио Евгения Фельдмана на Авторадио"
+category: articles
+tags: [projects, live]
+image:
+  feature: feature/unsplash-1507246207829-cropped.jpg 
+  credit: Austin Neill @arstyy
+  creditlink: https://unsplash.com/photos/gmuAWJGNHcY
+---
+
+### 6 ноября 2019 г, Ростов-на-Дону
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-N0A2QDTmvE?start=49" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
