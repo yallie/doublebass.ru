@@ -15,17 +15,18 @@ image:
 
 Nikolay Yakovlev is a session bassist and accompanier. He played with 
 
-|     | [Kevin Mahogany](https://www.kevinmahogany.com/) (vocals)                  |      | [Valery Ponomarev](http://www.valeryponomarev.com/) (trumpet)          |
-|     | [Kathy Kosins](http://www.kathykosins.com/) (vocals)                       |      | [Robert Anchipolovsky](https://www.youtube.com/user/Anchipology) (sax) |
-|     | [Anita King](http://www.anitakingsings.com/) (vocals)                      |      | [Daniel Kramer](http://kramerdaniel.com/) (piano)                      |
-|     | [Sy Smith](http://sysmith.com/) (vocals)                                   |      | [Sergey Korenev](https://www.facebook.com/Sergey.Korenev.JAZZ) (guitar)                      |
-|     | [Sharon Clark](http://www.sharonclarkjazz.com/) (vocals)                   |      | [Lenny Sendersky](http://www.lennysendersky.com/) (sax)                |
-|     | [Kat Gang](http://katgang.net/) (vocals)                                   |      | [Tony Romano](http://www.tonyromanomusic.com/) (guitar)                |
-|     | [Janine Carter](http://www.janinecarter.com/) (vocals)                     |      | [Andrey Kondakov](http://www.jazz.ru/pages/kondakov/) (piano)          |
-|     | [Mavis Swan Poole](http://www.swanvocals.com/) (vocals)                    |      | [Oleg Butman](http://www.olegbutman.com/) (drums)                      |
-|     | [Michael Ivanov](http://ivanovbrothers.ru/) (piano)                        |      | [Natalia Smirnova](http://www.jazz.ru/pages/smirnova/) (piano, vocals) |
-|     | [Eugene Feldman](https://soundcloud.com/eugene-fluteman) (flute)           |      | [Oleg Akkuratov](http://akkuratov.com/) (piano)                        |
-|     | [Albert Kandrachyan](https://soundcloud.com/albert-kandrachyan) (piano)    |      | Andrey Berdnikov (guitar)  |
+|     | [Kevin Mahogany](https://www.kevinmahogany.com/) (vocals)                  |      | [Valery Ponomarev](http://www.valeryponomarev.com/) (trumpet)           |
+|     | [Cleveland P Jones](https://www.youtube.com/user/clevelandsgift/) (vocals) |      | [Robert Anchipolovsky](https://www.youtube.com/user/Anchipology) (sax)  |
+|     | [Kathy Kosins](http://www.kathykosins.com/) (vocals)                       |      | [Daniel Kramer](http://kramerdaniel.com/) (piano)                       |
+|     | [Anita King](http://www.anitakingsings.com/) (vocals)                      |      | [Sergey Korenev](https://www.facebook.com/Sergey.Korenev.JAZZ) (guitar) |
+|     | [Sy Smith](http://sysmith.com/) (vocals)                                   |      | [Michael Ivanov](http://ivanovbrothers.ru/) (piano)                     |
+|     | [Sharon Clark](http://www.sharonclarkjazz.com/) (vocals)                   |      | [Eugene Feldman](https://soundcloud.com/eugene-fluteman) (flute)        |
+|     | [Kat Gang](http://katgang.net/) (vocals)                                   |      | [Andrey Kondakov](http://www.jazz.ru/pages/kondakov/) (piano)           |
+|     | [Janine Carter](http://www.janinecarter.com/) (vocals)                     |      | [Oleg Butman](http://www.olegbutman.com/) (drums)                       |
+|     | [Mavis Swan Poole](http://www.swanvocals.com/) (vocals)                    |      | [Albert Kandrachyan](https://soundcloud.com/albert-kandrachyan) (piano) |
+|     | [Derek Brown](https://derekbrownsax.com/) (sax)                            |      | [Natalia Smirnova](http://www.jazz.ru/pages/smirnova/) (piano, vocals)  |
+|     | [Lenny Sendersky](http://www.lennysendersky.com/) (sax)                    |      | [Oleg Akkuratov](http://akkuratov.com/) (piano)                         |
+|     | [Tony Romano](http://www.tonyromanomusic.com/) (guitar)                    |      | Andrey Berdnikov (guitar)  |
 |     | [Konstantin Negodaev](https://soundcloud.com/konstantin-negodaev) (guitar) |      | Dmitry Budarin (trombone)  |
 |     | Eugene Sokolovsky (sax)                                                    |      | Anatoly Kirnichny (sax)    |
 
