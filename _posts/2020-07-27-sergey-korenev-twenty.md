@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sergey Korenev PROJECT — Twenty
-description: "Премьера видеоклипа Sergey Korenev PROJECT"
+title: Sergey Korenev Project — Twenty
+description: "Премьера видеоклипа Sergey Korenev Project"
 category: articles
 tags: [projects, live]
 image:
